@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+main,header
+{
+	background-image: url("../pics/xingkong.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+    
+}
+
+#no1
+{
+	text-align: center;
+	font-family:sans-serif;
+	font-size:3em;
+	color:#2F2F4F;
+}
+
+#fussballpic
+{
+    width:50%;
+    height:50%;
+}
+
+main h1
+{
+	text-align: center;
+	font-family:sans-serif;
+
+    font-size:3em;
+
+    color:#2F2F4F;
+}
+
+.button
+{
+	background-color: #e7e7e7;
+	border-radius: 15px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;	
+	font-size: 25px;	
+	margin: 4px 2px;
+	cursor: pointer;
+	color:black;
+}
+
+footer
+{
+	background-color: beige;
+	display: flex-direction;
+	flex-direction: row;
+	justify-content: center;
+	border-radius: 10px;
+
+	padding:1%;
+	margin:0.25%;
+
+	margin-top: 2%;
+	border-color: #856363;
+
+	margin-bottom: -3%;
+}
+
+#footers
+{
+	padding-top:5%;
+        border-left: 2px;
+	padding-left: 3%;
+	border-style: solid;
+	border-color: #A68064;
+	width:25%;
+}
+
+
+
